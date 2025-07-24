@@ -23,15 +23,13 @@ Zelo is a fast, secure, and modern desktop chat application designed for seamles
 | ------------ | ----------- |
 |              |             |
 
-> Replace the links with your own hosted images or local image paths if viewed locally.
-
 ---
 
 ## 📆 Installation
 
 ### 🔹 Option 1: Using `zelosetup.exe` (Recommended for Windows)
 
-1. [Download Zelo Setup](https://github.com/yourusername/zelo/releases)
+1. [Download Zelo Setup](https://github.com/tayabkhokhr/zelo/releases)
 2. Run the installer.
 3. Launch Zelo from your desktop or Start Menu.
 4. Log in with Google and start chatting!
